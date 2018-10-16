@@ -1,0 +1,16 @@
+# compiled output
+/dist
+dist.tar.bz2
+
+# dependencies
+/node_modules
+
+# misc
+/.sass-cache
+/coverage/*
+npm-debug.log
+proxy.conf.json
+
+# e2e
+/e2e/*.js
+/e2e/*.map
